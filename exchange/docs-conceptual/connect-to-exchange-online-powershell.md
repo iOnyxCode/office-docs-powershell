@@ -62,7 +62,7 @@ For detailed syntax and parameter information, see [Connect-ExchangeOnline](/pow
 
 - _\<UPN\>_ is your account in user principal name format (for example, `navin@contoso.onmicrosoft.com`).
 
-- When you use the _ExchangeEnvironmentName_ parameter, you don't need use the _ConnectionUri_ or _AzureADAuthorizationEndPointUrl_ parameters. Common values for the _ExchangeEnvironmentName_ parameter are described in the following table:
+- When you use the _ExchangeEnvironmentName_ parameter, you don't need to use the _ConnectionUri_ or _AzureADAuthorizationEndPointUrl_ parameters. Common values for the _ExchangeEnvironmentName_ parameter are described in the following table:
 
   |Environment|Value|
   |---|---|
